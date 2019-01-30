@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[post title]]></title>
+    <title><![CDATA[This is my first blog]]></title>
     <url>%2F2019%2F01%2F06%2Fpost-title%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[So happy today!]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
